@@ -1,0 +1,50 @@
+@relation personality-weka.filters.unsupervised.instance.Resample-S1-Z60.0-no-replacement
+
+@attribute id numeric
+@attribute nature {introvert,extrovert,ambivert}
+@attribute intuitive {yes,no}
+@attribute decision {feeling,thinking}
+@attribute character {perceiving,judging}
+
+@data
+1103054,ambivert,no,feeling,perceiving
+1103084,extrovert,yes,thinking,judging
+1103019,extrovert,yes,feeling,judging
+1103028,introvert,no,thinking,perceiving
+1103049,ambivert,no,thinking,judging
+1103030,extrovert,no,thinking,perceiving
+1103094,ambivert,no,thinking,judging
+1103085,extrovert,yes,thinking,judging
+1103046,introvert,no,feeling,judging
+1103014,ambivert,no,feeling,perceiving
+1103090,ambivert,no,feeling,perceiving
+1103034,ambivert,no,thinking,judging
+1103050,introvert,no,feeling,judging
+1103089,introvert,yes,thinking,judging
+1103051,ambivert,no,thinking,judging
+1103041,ambivert,no,feeling,perceiving
+1103096,introvert,no,feeling,perceiving
+1103005,introvert,yes,feeling,perceiving
+1103063,ambivert,no,feeling,judging
+1103104,ambivert,no,feeling,judging
+1103080,introvert,no,thinking,judging
+1103075,ambivert,no,thinking,judging
+1103055,introvert,no,thinking,perceiving
+1103045,ambivert,no,feeling,judging
+1103036,ambivert,no,thinking,judging
+1103023,introvert,yes,feeling,perceiving
+1103102,extrovert,yes,thinking,judging
+1103071,extrovert,yes,thinking,judging
+1103073,introvert,no,thinking,judging
+1103008,extrovert,yes,thinking,perceiving
+1103058,extrovert,yes,thinking,perceiving
+1103043,ambivert,no,thinking,judging
+1103106,extrovert,yes,feeling,judging
+1103027,ambivert,yes,thinking,perceiving
+1103021,extrovert,yes,thinking,judging
+1103004,extrovert,no,feeling,judging
+1103101,ambivert,no,feeling,perceiving
+1103097,ambivert,no,feeling,perceiving
+1103018,ambivert,no,feeling,perceiving
+1103061,ambivert,no,feeling,judging
+1103076,introvert,no,thinking,perceiving
