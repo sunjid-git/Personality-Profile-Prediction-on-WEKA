@@ -16,3 +16,6 @@ Correctly Classified	64.2857%(PART)
 
 Incorrectly Classified	35.7143%(PART)				
 Incorrectly Classified	42.857%(KStar)
+
+
+*** Since we have used and checked several classifiers we reach in a decision that for this particular dataset PART gives better result. We also add that the data used to train and test the model does not represent the overall amount of personalities worldwide. We have just used the student types of CSE 3rd batch of Bangladesh Army international University of Science & Technology. The outcomes are the flashes of personality based on perceiving persona and judging persona.
