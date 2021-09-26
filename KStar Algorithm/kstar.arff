@@ -1,0 +1,25 @@
+@relation personality-weka.filters.unsupervised.instance.Resample-S1-Z60.0-no-replacement-V-weka.filters.unsupervised.instance.Resample-S1-Z50.0-no-replacement-V_predicted
+
+@attribute id numeric
+@attribute nature {introvert,extrovert,ambivert}
+@attribute intuitive {yes,no}
+@attribute decision {feeling,thinking}
+@attribute 'prediction margin' numeric
+@attribute 'predicted character' {perceiving,judging}
+@attribute character {perceiving,judging}
+
+@data
+1103001,introvert,yes,feeling,0.921257,perceiving,perceiving
+1103029,ambivert,yes,feeling,0.564326,perceiving,perceiving
+1103082,extrovert,yes,thinking,0.968308,judging,judging
+1103057,ambivert,no,thinking,-0.690218,judging,perceiving
+1103006,introvert,no,feeling,-0.223481,perceiving,judging
+1103086,ambivert,yes,thinking,-0.928745,judging,perceiving
+1103047,ambivert,yes,thinking,0.700327,judging,judging
+1103025,extrovert,yes,thinking,-0.49132,judging,perceiving
+1103053,introvert,no,thinking,0.50684,perceiving,perceiving
+1103015,ambivert,no,thinking,-0.120614,perceiving,judging
+1103017,introvert,no,thinking,0.79149,perceiving,perceiving
+1103103,introvert,no,feeling,0.674363,perceiving,perceiving
+1103093,ambivert,no,thinking,0.727415,judging,judging
+1103037,ambivert,no,thinking,-0.881867,judging,perceiving
